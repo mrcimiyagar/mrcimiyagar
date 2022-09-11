@@ -2,8 +2,8 @@
 - 👀 I’m interested in Cloud Computing and AI.
 - 🌱 I’m currently learning building blockchains, working on my own virtual society called Infinity and my own programming language called Elpis.
 - 📫 How to reach me : 
--   @mohammadi_keyhan on Telegram
--   @alchemist on Icon City ( in development )
+-   @keyhan_mohammadi on Telegram
+-   @alchemist in Icon City ( in development )
 
 My other GitHub account : @theprogrammermachine
 
