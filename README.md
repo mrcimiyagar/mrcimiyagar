@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning building blockchains, working on my own virtual society called Infinity and my own programming language called Elpis.
 - 📫 How to reach me : 
 -   @keyhan_mohammadi on Telegram
--   @alchemist in Icon City ( in development )
+-   @alchemist in Cosmopole ( in development )
 
 My other GitHub account : @theprogrammermachine
 
